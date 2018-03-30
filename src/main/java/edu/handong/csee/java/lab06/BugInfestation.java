@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * This is a class named 'BugInfestation'!
+ * It gets volume of your house and initial population of bugs as input, and calculates weeks, population of bugs, and total volume of bugs based on the input using loop!
  * @author JYB
  *
  */
